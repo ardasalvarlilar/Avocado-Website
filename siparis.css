@@ -880,8 +880,10 @@ footer div:nth-child(3) input.button{
     opacity: 0;
     visibility: hidden;
     gap: 5px;
-
     transition: all 0.2s linear;
+  }
+    main section form input.button{
+    color:black;
   }
   .list-label:has(input:checked) .list{
     opacity: 1;
