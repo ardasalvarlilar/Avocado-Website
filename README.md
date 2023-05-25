@@ -1,3 +1,3 @@
 # Avocado-Website
 Used HTML and CSS ony <br>
-<a href="https://ardasalvarlilar.github.io/Avocado-Website/" target="_blank"></a>
+<a href="https://ardasalvarlilar.github.io/Avocado-Website/" target="_blank">To go the Website</a>
